@@ -7,6 +7,8 @@ output:
     keep_md: yes
 ---
 
+<img src="https://raw.githubusercontent.com/RealizingFutures/UnemploymentAndLaborForceParticipation/gh-pages/UnemploymentAndLaborForceParticipation_files/figure-html/iStock_LookingForJob.jpg">
+<br>
 
 
 America is emerging from the worst economic period since the Great Depression. The unemployment rate reached a high of 10 percent in the midst of the Great Recession. Today, after consistent job growth since February, 2010, in which total of 15.5 million private sector jobs have been added, the unemployment rate stands at 4.9 percent [1]. I think this is unequivocally good news for the economy, it suggests we are headed in a good direction, and it has been rightly cited by the Obama Administration as a good achievement. However, not everyone sees good news in these numbers. Some have argued that the unemployment rate statistic is manipulated and misleading, and that the actual percentage of people unemployed is much higher than the official story would have you believe. In fact, presidential candidate Donald Trump has argued that the unemployment rate is much higher than reported, somewhere between 18 and 42 percent [2]. With the following analysis I hope to get to the root of this issue by examining the unemployment rate and labor force participation.
