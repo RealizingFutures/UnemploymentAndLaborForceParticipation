@@ -2,7 +2,9 @@
 Jared Roy Endicott  
 Saturday, November 5, 2016  
 
+<div style="width:450px; height=300px">
 <img src="https://raw.githubusercontent.com/RealizingFutures/UnemploymentAndLaborForceParticipation/gh-pages/UnemploymentAndLaborForceParticipation_files/figure-html/iStock_LookingForJob.jpg">
+</div>
 <br>
 
 
